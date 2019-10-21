@@ -1,0 +1,14 @@
+<div class="image">
+  <%= image_tag "avatar.jpg", alt: "Avatar", width: 350, :class => "img_main" %>
+  <div class="hover-images">
+    <%= link_to boards_path do %>
+      <i class="fas fa-dice overlay image img_secondary"></i>
+    <% end %>
+    <%= link_to curriculum_vitae_home_path do %>
+      <i class="fas fa-briefcase overlay image img_third"></i>
+    <% end %>
+      <%= link_to about_pages_path do %>
+        <i class="fas fa-user overlay image img_fourth"></i>
+    <% end %>
+</div>
+</div>

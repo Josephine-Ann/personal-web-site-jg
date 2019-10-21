@@ -1,0 +1,8 @@
+<div class="index-all">
+<<h1 class="name-index text-center">Boards</h1>
+<div class="normal-list text-center">
+<% @boards.each do |b| %>
+<%= link_to b.name, board_path(b) %>
+</div>
+<% end %>
+</div>

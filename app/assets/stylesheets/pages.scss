@@ -1,0 +1,74 @@
+.image {
+   position:relative;
+   display:inline-block;
+}
+.overlay {
+   display: none;
+   color: rgba(white, 0.5);
+}
+.image:hover .overlay {
+   top:0;
+   left:0;
+   display:inline-block;
+
+   /* All other styling - see example */
+   img {
+      vertical-align:top;
+   }
+}
+
+.about {
+  margin: 30px 350px 30px 350px;
+}
+
+.curriculum {
+  margin: 30px 350px 30px 350px;
+}
+
+.img_main {
+  margin-left: 570px;
+  margin-top: 80px;
+  border-radius: 175px;
+}
+
+.img_secondary:hover {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+.img_secondary {
+  margin-left: 450px;
+  font-size: 100px;
+  padding-right: 110px;
+  margin-top: 90px;
+}
+
+.img_third {
+  margin-top: 150px;
+  font-size: 100px;
+  padding-right: 110px;
+}
+
+.img_third:hover {
+  color: white;
+}
+
+.img_fourth {
+  font-size: 100px;
+  margin-top: 90px;
+}
+
+.img_fourth:hover {
+  color: white;
+}
+
+.hover-images {
+  display: flex;
+}
+
+body {
+  background-color: #292929;
+}

@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  firstspanish: MyString
+  firstenglish: MyString
+  secondspanish: MyString
+  secondenglish: MyString
+  thirdspanish: MyString
+  thirdenglish: MyString
+  fourthspanish: MyString
+  fourthenglish: MyString
+  fifthspanish: MyString
+  fifthenglish: MyString
+  sixthspanish: MyString
+  sixthenglish: MyString
+  seventhspanish: MyString
+  seventhenglish: MyString
+  eighthspanish: MyString
+  eighthenglish: MyString
+  ninthspanish: MyString
+  ninthenglish: MyString
+
+two:
+  name: MyString
+  firstspanish: MyString
+  firstenglish: MyString
+  secondspanish: MyString
+  secondenglish: MyString
+  thirdspanish: MyString
+  thirdenglish: MyString
+  fourthspanish: MyString
+  fourthenglish: MyString
+  fifthspanish: MyString
+  fifthenglish: MyString
+  sixthspanish: MyString
+  sixthenglish: MyString
+  seventhspanish: MyString
+  seventhenglish: MyString
+  eighthspanish: MyString
+  eighthenglish: MyString
+  ninthspanish: MyString
+  ninthenglish: MyString
